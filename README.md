@@ -8,7 +8,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=SNIGDHO-XD;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=SNIGDHO-CYBER404;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
  
 </p>
  
@@ -23,29 +23,29 @@
   
 ____Programming And Memes____
 
-<a href="https://github.com/SNIGDHO-XD/followers">
-<img title="Followers" src="https://img.shields.io/github/followers/SNIGDHO-XD?label=Followers&color=blue&style=flat-square"></a>
+<a href="https://github.com/SNIGDHO-CYBER404/followers">
+<img title="Followers" src="https://img.shields.io/github/followers/SNIGDHO-CYBER404?label=Followers&color=blue&style=flat-square"></a>
 
 <br>
-  <a href="https://github.com/SNIGDHO-XD/termux-style/stargazers/">
-  <a href="https://github.com/SNIGDHO-XD/RANDOM-OK">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/SNIGDHO-XD/RANDOM-OK.svg"/>
+  <a href="https://github.com/SNIGDHO-CYBER404/termux-style/stargazers/">
+  <a href="https://github.com/SNIGDHO-CYBER404/RANDOM-OK">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/SNIGDHO-CYBER404/RANDOM-OK.svg"/>
   </a>
 <br>
-  <a href="https://github.com/SNIGDHO-XD/RANDOM-OK">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/SNIGDHO-XD/RANDOM-OK.svg"/>
+  <a href="https://github.com/SNIGDHO-CYBER404/RANDOM-OK">
+    <img alt="Language" src="https://img.shields.io/github/languages/count/SNIGDHO-CYBER404/RANDOM-OK.svg"/>
   </a>
-  <a href="https://github.com/SNIGDHO-XD/RANDOM-OK">
-    <img alt="Starts" src="https://img.shields.io/github/stars/SNIGDHO-XD/RANDOM-OK.svg"/>
-  </a>
-<br>
-<a href="https://github.com/SNIGDHO-XD/RANDOM-OK">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/SNIGDHO-XD/RANDOM-OK.svg"/>
+  <a href="https://github.com/SNIGDHO-CYBER404/RANDOM-OK">
+    <img alt="Starts" src="https://img.shields.io/github/stars/SNIGDHO-CYBER404/RANDOM-OK.svg"/>
   </a>
 <br>
-<a href="https://github.com/SNIGDHO-XD/RANDOM-OK">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/SNIGDHO-XD/RANDOM-OK.svg"/> <a                                                                                                        href="https://github.com/Azim-vau/uidcr3k">
-    <img alt="Forks" src="https://img.shields.io/github/forks/SNIGDHO-XD/RANDOM-OK.svg"/>
+<a href="https://github.com/SNIGDHO-CYBER404/RANDOM-OK">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/SNIGDHO-CYBER404/RANDOM-OK.svg"/>
+  </a>
+<br>
+<a href="https://github.com/SNIGDHO-CYBER404/RANDOM-OK">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/SNIGDHO-CYBER404/RANDOM-OK.svg"/> <a                                                                                                        href="https://github.com/Azim-vau/uidcr3k">
+    <img alt="Forks" src="https://img.shields.io/github/forks/SNIGDHO-CYBER404/RANDOM-OK.svg"/>
   </a>
 </div>
 
@@ -60,7 +60,7 @@ pkg update && pkg upgrade
 pkg install python
 pip install mechanize requests bs4
 pkg install git
-git clone https://github.com/SNIGDHO-XD/RANDOM-OK
+git clone https://github.com/SNIGDHO-CYBER404/RANDOM-OK
 ```
 #### RUN SCRIPT
 ```shell
@@ -75,7 +75,7 @@ This tool is Free.So, You need not get aproval
 
 ##### MY SOCIAL MEDIA
 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/SNIGDHO-XD) <br>
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/SNIGDHO-CYBER404) <br>
 [![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/S.F.404) <br>
 
 
